@@ -1,7 +1,6 @@
 .vscode/
 .serverless/
 coverage/
-lib/
 node_modules/
 
 *.log
